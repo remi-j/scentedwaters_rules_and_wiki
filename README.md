@@ -132,16 +132,75 @@ No perfume is a magic attractant. Wear what makes you feel confident, and keep g
 
 ## 📖 Glossary
 
-| Term                             | Definition                                                                                                                                                                    |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **absolute**                     | The substance obtained after extracting a concrete with ethanol and subsequent solvent removal. _See also:_ concrete, the precursor material. :contentReference[oaicite:0]{index=0}          |
-| **accord**                       | A combination of materials to create the impression of something. May contain the titular material, but may also not (especially in fantasy accords). _See also:_ note. :contentReference[oaicite:1]{index=1} |
-| **concrete**                     | The substance obtained after extracting a material with a non‑polar solvent (e.g. hexane) and subsequent solvent removal; contains waxes and is often further processed. _See also:_ absolute. :contentReference[oaicite:2]{index=2} |
-| **CO₂ [extract]**                | An SFE obtained using supercritical carbon dioxide as a solvent. _See also:_ SFE. :contentReference[oaicite:3]{index=3}                                                                     |
-| **perfume**                      | Generic term for women’s fragrances. _May also refer to:_ parfum. :contentReference[oaicite:4]{index=4}                                                                                   |
-| **partial**                      | A bottle of fragrance that someone has partially used, including the original bottle. Used in buying/selling contexts (e.g. “I bought a partial of that frag”). _See also:_ decant. :contentReference[oaicite:5]{index=5} |
-| **performance**                  | A subjective composite of a fragrance’s longevity, projection, and sillage – different people weigh each component differently. _See also:_ longevity, projection, sillage. :contentReference[oaicite:6]{index=6} |
-| *(…remaining terms omitted for brevity…)* | You can continue the table by copying each row from the original HTML. |
+## 📖 Glossary
+
+| Term | Definition |
+| --- | --- |
+| **absolute** | The substance obtained after extracting a concrete with ethanol and subsequent solvent removal. See also: concrete, the precursor material. |
+| **accord** | A combination of materials to create the impression of something; may contain the titular material but may also not (especially in fantasy accords). See also: note, which emphasises the impression rather than the constituents. |
+| **amber** | A fantasy note constructed from various resins, most often benzoin and labdanum, and vanilla; generally sweet, resinous, powdery, and warm. Not to be confused with ambergris or woody‑ambers, though they are sometimes referred to as amber as well. |
+| **ambergris (grey amber)** | A waxy substance secreted by whales’ guts to protect them from irritation by foreign objects; extremely rare and almost never used in perfumery in its natural state. Fresh ambergris is brown to black and smells faecal, but aged ambergris develops minerallic, animalic, and marine facets. See also: Ambrox, used as a substitute. |
+| **Ambrox/Ambroxan/Cetalox** | A minerallic, musky, salty aromachemical that contributes the characteristic ambergris note. Industrially produced (e.g. from clary sage) for cost and consistency. See also: ambergris. |
+| **anosmia** | An inability to smell; may be universal or restricted to certain notes/materials. Refers to a permanent (congenital) or semi‑permanent (e.g. COVID‑induced) loss. Not to be confused with olfactory fatigue. |
+| **aromachemical** | A chemical compound used in perfumery; may be of natural or synthetic origin. |
+| **balsamic** | Bearing semblance to balsams; characterised by a warm, sweet, tenacious note. Often found in ambery, floral, and resinous fragrances. |
+| **base note** | The longest‑lasting notes in a fragrance, revealed after the top and heart notes fade. See also: top note, heart/middle note. Not to be confused with Basenotes. |
+| **Basenotes** | A popular fragrance website listing perfumes and their notes, plus news, forums, and a “wardrobe” feature. See also: Fragrantica, Parfumo. Not to be confused with base note. |
+| **blind buy** | Purchasing a full‑size fragrance without having smelled it beforehand. |
+| **blue [fragrance]** | A contemporary masculine category: fresh citrusy‑aromatic top notes with a woody‑ambery drydown. |
+| **BNIB** | “Brand New In Box” (never opened or used). See also: NIB. |
+| **chypre** | A classic category (early 20th C): bergamot, labdanum, oakmoss, and patchouli. |
+| **clone** | A fragrance designed to replicate another scent exactly (though in practice they always differ). |
+| **CO₂ [extract]** | A supercritical fluid extract obtained using carbon dioxide as the solvent. See also: SFE. |
+| **concrete** | The solid residue after non‑polar solvent extraction (e.g. hexane) and solvent removal; contains waxes and often needs further processing. See also: absolute. |
+| **dabber** | A sample vial with an open top (often a tiny test tube); apply by touching or rolling the vial on skin. See also: rollerball, splash bottle, sprayer. |
+| **decant** | A smaller volume of perfume transferred from a full bottle into a travel atomiser or vial by a third party. See also: partial, sample. |
+| **designer** | See: “What’s the difference between designer, niche, and indie?” |
+| **drydown** | The stage when the fragrance’s base notes become prominent after top notes have faded. |
+| **eau de cologne (EDC)** | See: “What’s the difference between EDC/EDT/EDP/Parfum, etc.?” |
+| **eau de parfum (EDP)** | See: “What’s the difference between EDC/EDT/EDP/Parfum, etc.?” |
+| **eau de toilette (EDT)** | See: “What’s the difference between EDC/EDT/EDP/Parfum, etc.?” |
+| **essential oil (EO) / essence** | The fragrant oil layer from steam distillation. See also: hydrosol (the water layer). |
+| **FB** | Full bottle. Compare: decant, sample. |
+| **fougère** | A classic category (early 20th C): lavender, geranium, tonka bean (coumarin), and oakmoss. |
+| **Fragrantica** | A fragrance community site with notes database, news, forums, and wardrobe. See also: Basenotes, Parfumo. |
+| **heart/middle note** | Notes of moderate volatility revealed after the top notes fade and before the base notes fully emerge. See also: top note, base note. |
+| **house** | The brand or perfume company under which a fragrance is released. |
+| **hydrosol** | The water portion from steam distillation; may contain trace fragrant compounds. See also: essential oil. |
+| **indie** | See: “What’s the difference between designer, niche, and indie?” |
+| **ISO** | “In Search Of” — a request to find where to buy something. See also: WTB. |
+| **Iso E Super / Iso Gamma Super / Sylvamber / Timbersilk** | A popular woody‑ambery synthetic aromachemical with cedar‑ambergris facets, used widely for its hedonistic profile and affordability. See also: woody‑amber. |
+| **juice** | The actual scented liquid, as distinct from the bottle, packaging, or branding. |
+| **longevity** | How long a fragrance remains perceptible on skin. See also: performance. |
+| **musk** | Historically animal‑derived (e.g. musk deer); now mostly synthetic. “White” musks are clean/laundry‑like, “animalic” are warmer/skin‑like. |
+| **natural** | Materials of natural origin (absolutes, essential oils, resinoids, etc.). See also: SFE, CO₂ extract. |
+| **NIB** | “New In Box.” See also: BNIB. |
+| **niche** | See: “What’s the difference between designer, niche, and indie?” |
+| **nose** | Slang for perfumer. |
+| **nose blindness** | See: olfactory fatigue. |
+| **note** | An impression of a scent (e.g. jasmine note), not necessarily the actual ingredient. See also: accord. |
+| **external links** | How commercial fragrances are composed; Notes education. |
+| **oud** | Resinous heartwood of Aquilaria trees infected with mold; typically woody, sweet, animalic. Very costly—often reproduced synthetically. |
+| **parfum** | See: “What’s the difference between EDC/EDT/EDP/Parfum, etc.?” |
+| **Parfumo** | A fragrance community site with notes database, news, forums, and collection tools. See also: Basenotes, Fragrantica. |
+| **partial** | A bottle that’s been partially used. See also: decant. |
+| **performance** | The combined perception of longevity, projection, and sillage. See also: longevity, projection, sillage. |
+| **perfume** | Generally refers to women’s fragrances; also synonymous with parfum. |
+| **presentation** | The packaging (box, inserts, etc.) accompanying a fragrance. |
+| **projection** | The distance at which a fragrance can be detected. See also: sillage, performance. |
+| **resinoid** | Concentrated resin extract obtained via solvents; similar to absolutes but from resinous materials. |
+| **rollerball** | A small vial with a ball applicator; roll onto skin to apply. See also: dabber, splash bottle, sprayer. |
+| **sample** | A trial‑size vial of perfume (official source). See also: decant. |
+| **SFE** | Supercritical fluid extract; retains high olfactory fidelity but is expensive. See also: CO₂ extract. |
+| **sillage** | The scent trail left behind by the wearer. See also: projection, performance. |
+| **splash bottle** | An open‑top container for fragrance (often aftershaves). See also: dabber, rollerball. |
+| **split** | Sharing the cost of a full bottle by buying in portions. See also: decant. |
+| **sprayer** | The common mist‑spray dispenser for perfumes. |
+| **synthetic** | Materials created chemically rather than extracted from nature. |
+| **tincture** | A solution of fragrant materials in ethanol. |
+| **top note** | The most volatile, immediate scent perceived upon application. |
+| **woody‑amber** | A class of compounds combining woody and ambergris facets (e.g. Iso E Super, Ambroxan). See also: Ambrox, Iso E Super. |
+| **WTB** | “Want To Buy” — a request indicating interest in purchasing. See also: ISO. |
 
 ---
 
@@ -159,6 +218,23 @@ Upon the publishing of this framework on **5 July 2022**, all existing members
 
 This database may be subjected to future changes – please use this page as the most up‑to‑date version of the framework. :contentReference[oaicite:11]{index=11}
 
----
+## ⚖️ Disciplinary Framework
 
-<small>Notion uses cookies. See [Cookie Notice](https://www.notion.so/Cookie-Notice-bc186044eed5488a8387a9e94b14e58c) for details. :contentReference[oaicite:12]{index=12}</small>
+| Offence                                                                 | 1st offence                             | 2nd / Aggravated           | 3rd / Highly agg.                  | Comments                                                                                                                                                        |
+| ----------------------------------------------------------------------- | --------------------------------------- | -------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Explicit content                                                        | Ban                                     |                            |                                   |                                                                                                                                                                  |
+| Flame wars                                                              | Warning, Slow mode                      | Time‑out (1 day)           | Kick / Ban                        | De‑escalation is prioritised.                                                                                                                                   |
+| Harrassment                                                             | Kick                                    | Ban                        |                                   |                                                                                                                                                                  |
+| Hate speech                                                             | Ban                                     |                            |                                   |                                                                                                                                                                  |
+| Offensive speech                                                        | Warning / Kick                          | Ban                        |                                   |                                                                                                                                                                  |
+| Personal attacks                                                        | Warning                                 | Time‑out (1 day)           | Kick                              |                                                                                                                                                                  |
+| Repeated misuse of appropriate channels                                 | Warning                                 | Warning                    | Time‑out (1 hour – 1 day)         |                                                                                                                                                                  |
+| Rude / mean / uncivil behavior                                          | Warning                                 | Time‑out (1 hour)          | Time‑out (1 day)                  | Includes things that aren’t quite personal attacks or harassment, but take away from a respectful environment.                                                  |
+| Scamming                                                                | Mod intervention                        |                            |                                   | Mod intervention to understand the situation and seek resolution. If the user is found guilty, they will then be banned from the server.                           |
+| Spamming                                                                | Warning                                 | Time‑out                   | Kick                              |                                                                                                                                                                  |
+| Trolling                                                                | Time‑out (1 day)                        | Kick                       | Ban                               |                                                                                                                                                                  |
+| Unapproved advertising (not in #self‑promotion)                         | Warning & message removal               | Kick                       | Ban                               |                                                                                                                                                                  |
+| Usage of non‑standard characters in nickname or username                | Reminder                                | Mods may assign a nickname |                                   | This is to ensure that mods are able to tag said member in a message.                                                                                           |
+
+
+---
