@@ -12,7 +12,7 @@
 3. [Disciplinary Framework](#disciplinary-framework) – The rules that keep the server a conducive place for learning.  
 
 ---
-
+<a name="frequently-asked-questions"></a>
 ## ❓ Frequently Asked Questions
 
 <details>
@@ -129,7 +129,7 @@ No perfume is a magic attractant. Wear what makes you feel confident, and keep g
 </details>
 
 ---
-
+<a name="glossary"></a>
 ## 📖 Glossary
 
 | Term | Definition |
@@ -201,7 +201,7 @@ No perfume is a magic attractant. Wear what makes you feel confident, and keep g
 | **WTB** | “Want To Buy” — a request indicating interest in purchasing. See also: ISO. |
 
 ---
-
+<a name="disciplinary-framework"></a>
 ## ⚖️ Disciplinary Framework
 
 We want Scented Waters to be a conducive place for discussion and learning. To that end, we are streamlining the existing server rules and standardising their enforcement by introducing a disciplinary framework, which replaces the old set of rules.  
