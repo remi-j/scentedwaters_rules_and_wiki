@@ -1,7 +1,7 @@
 # Scented Waters Wiki
 
 > 📢 **Join the Scented Waters Discord server at**  
-> https://discord.gg/scentedwaters  
+> https://discord.gg/3qegHmnTYx
 
 ---
 
@@ -56,7 +56,7 @@ This post may help shed some light on the fuzzy boundaries about the terms.
 
 Wear the fragrances that smell good to you! If you like the fragrance, the label shouldn’t matter.
 </details>
-
+</details> 
 <details>
 <summary><em>Olfactory education</em></summary>
 
