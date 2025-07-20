@@ -132,8 +132,6 @@ No perfume is a magic attractant. Wear what makes you feel confident, and keep g
 
 ## 📖 Glossary
 
-## 📖 Glossary
-
 | Term | Definition |
 | --- | --- |
 | **absolute** | The substance obtained after extracting a concrete with ethanol and subsequent solvent removal. See also: concrete, the precursor material. |
